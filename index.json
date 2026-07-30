@@ -4,13 +4,13 @@
     {
       "id": "merchant-mode",
       "name": "Merchant Mode",
-      "description": "Turn your inventory into linkable WTS auction macros, and track prices on both sides of the trade.",
+      "description": "Turn your inventory into linkable WTS auction macros, look up what anything is worth, and track prices on both sides of the trade.",
       "author": "prokopto-dev",
       "homepage": "https://github.com/prokopto-dev/nparseplus-merchantmode",
       "latest": {
-        "version": "0.1.0",
-        "url": "https://github.com/prokopto-dev/nparseplus-merchantmode/releases/download/v0.1.0/merchant_mode.zip",
-        "sha256": "92d684cd418cfd972f4b01b365be28dbec0cb757557e98227056d292838e77df",
+        "version": "0.2.0",
+        "url": "https://github.com/prokopto-dev/nparseplus-merchantmode/releases/download/v0.2.0/merchant_mode.zip",
+        "sha256": "efc1b401d80357b5115f56a49720ec37391d15d5c9281ad329a19669e0676170",
         "requires_sdk": ">=1.0,<2",
         "min_app_version": "1.18.0"
       }
