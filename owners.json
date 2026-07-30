@@ -26,5 +26,7 @@
     "merchant-prices": ["someone"],
     "raid-tools": ["someone", "their-comaintainer"]
   },
-  "owners": {}
+  "owners": {
+    "merchant-mode": ["prokopto-dev"]
+  }
 }
