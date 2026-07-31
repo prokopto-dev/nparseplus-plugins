@@ -4,13 +4,13 @@
     {
       "id": "merchant-mode",
       "name": "Merchant Mode",
-      "description": "Turn your inventory into linkable WTS auction macros, find which mule is holding what, look up what anything is worth, and see how its price is actually moving.",
+      "description": "Turn your inventory into linkable WTS auction macros, find which mule is holding what, look up what anything is worth, and see how its price is actually moving — one server at a time, since that is the only place any of it can be sold.",
       "author": "prokopto-dev",
       "homepage": "https://github.com/prokopto-dev/nparseplus-merchantmode",
       "latest": {
-        "version": "0.3.0",
-        "url": "https://github.com/prokopto-dev/nparseplus-merchantmode/releases/download/v0.3.0/merchant_mode.zip",
-        "sha256": "7739a59b69533821af2056c6cd61cc68eb0bc63e82dfbf552b2bdd1602a17691",
+        "version": "0.4.0",
+        "url": "https://github.com/prokopto-dev/nparseplus-merchantmode/releases/download/v0.4.0/merchant_mode.zip",
+        "sha256": "b993acb632353c115f0d5b2a53e75511ec7ae6c806e091845e6d75490d621081",
         "requires_sdk": ">=1.0,<2",
         "min_app_version": "1.18.0"
       }
