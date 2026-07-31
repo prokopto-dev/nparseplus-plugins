@@ -20,7 +20,7 @@ and reproduced in the release body — which is *exactly* the object this
 registry wants. You should not have to write any JSON by hand or compute any
 hash yourself.
 
-Read the [developer guide](https://prokopto-dev.github.io/nparse-plus/plugins/developing/)
+Read the [developer guide](https://prokopto-dev.github.io/nparse-plus/latest/plugins/developing/)
 first if you have not built the plugin yet.
 
 ## Adding a new plugin

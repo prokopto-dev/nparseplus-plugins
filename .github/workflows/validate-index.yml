@@ -1,7 +1,7 @@
 name: Validate index
 
 # Gate for plugin submissions. Implements the checks specified in
-# https://prokopto-dev.github.io/nparse-plus/plugins/registry/ :
+# https://prokopto-dev.github.io/nparse-plus/latest/plugins/registry/ :
 #   1. index.json validates against schema/index-v1.schema.json
 #   2. plugin ids match the app's PLUGIN_ID_RE and are unique
 #   3. release urls are https (including after redirects)

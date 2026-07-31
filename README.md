@@ -77,7 +77,7 @@ format. Copy an updated schema in from there rather than editing it here.
 
 ## Format
 
-See the [registry documentation](https://prokopto-dev.github.io/nparse-plus/plugins/registry/)
+See the [registry documentation](https://prokopto-dev.github.io/nparse-plus/latest/plugins/registry/)
 for the specification. In short:
 
 ```json
