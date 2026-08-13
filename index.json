@@ -8,11 +8,11 @@
       "author": "prokopto-dev",
       "homepage": "https://github.com/prokopto-dev/nparseplus-merchantmode",
       "latest": {
-        "version": "0.4.1",
-        "url": "https://github.com/prokopto-dev/nparseplus-merchantmode/releases/download/v0.4.1/merchant_mode.zip",
-        "sha256": "6378afd278ff3a512d3aa453978ba17a4b55007544b0d70da9351ffccaba65aa",
+        "version": "0.5.0",
+        "url": "https://github.com/prokopto-dev/nparseplus-merchantmode/releases/download/v0.5.0/merchant_mode.zip",
+        "sha256": "87478a4fa3463cd831e5157a5b3f6e3c8fe6e6ff321f777162f6ab06cfccc742",
         "requires_sdk": ">=1.0,<2",
-        "min_app_version": "1.18.0"
+        "min_app_version": "2.1.0"
       }
     }
   ]
